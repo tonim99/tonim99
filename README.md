@@ -2,14 +2,20 @@
 --------------------------
 
 
-I am a detail-oriented full-stack developer who values collaboration and has an insatiable hunger for knowledge. I create clean, responsive, user-first applications optimized for mobile and web.
+I am a methodical and analytical full-stack developer who thrives in a collaborative environment and has an insatiable hunger for knowledge.  I create clean, responsive, mobile-first applications tailored to user needs and desires.  
 
 
 --------------------------
 
 ### About Me:
 
-I'm an Account Manager turned Software Engineer, singer, activist, and Akita mom. I recently graduated from General Assembly's Software Engineering Immersive course and am currently working on polishing my React skills. I am currently seeking a new Software Engineering role where I can join a mission-based, diverse team where I can continue to grow and put my skills to work. 
+Hello!  I'm Tonimarie.  I am a full-stack software engineer, based in the beautiful Shenandoah Valley, who is meticulous in her work and scrutinizes it from a user's perspective to ensure quality.  
+
+Previously, I worked in consultative sales and account management; now I use the skills I gained to effectively collaborate with clients and colleagues and provide mutually beneficial solutions. Challenging work sparks my creativity. I excel in a rapidly changing organization, and am loath to accept "this is how we've always done it".   
+
+When I'm not developing your next application or expanding my skill set, I'm volunteering locally, spending time with my two Akitas, or singing with the band Blues Soup and the duo 4th Street Manor. 
+
+I am currently seeking a new Software Engineering role where I can join a mission-based, diverse team where I can continue to grow and put my skills to work. 
 
 Speaking of skills... 
 ----------------------------
