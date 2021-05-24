@@ -5,7 +5,7 @@ I am a full-stack software engineer, based in the beautiful Shenandoah Valley, w
 
 Previously, I worked in consultative sales and account management; now I use the skills I gained to effectively collaborate with clients and colleagues and provide mutually beneficial solutions. Challenging work sparks my creativity. I excel in a rapidly changing organization, and am loath to accept "this is how we've always done it".   
 
-When I'm not developing your next application or expanding my skill set, I'm volunteering locally, spending time with my two Akitas, or singing with the band Blues Soup and the duo 4th Street Manor. 
+When I'm not developing your next application or expanding my skill set, I'm volunteering locally, spending time with my Akita, or singing with the band Blues Soup and the duo 4th Street Manor. 
 
 I am currently seeking a new Software Engineering role where I can join a mission-based, diverse team where I can continue to grow and put my skills to work. 
 
