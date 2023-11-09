@@ -7,7 +7,7 @@ applications, focused on delivering exceptional user experiences. Possesses anal
 positive attitude, and a passion for learning, enabling success in fast-paced, metric-driven
 environments.
 
-Speaking of skills... 
+Skills
 ----------------------------
 
 * Programming Languages: JavaScript, TypeScript, Ruby
